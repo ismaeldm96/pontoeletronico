@@ -1,0 +1,18 @@
+.auth-links {
+    margin-top: 10px;
+}
+
+.login-logo a, .register-logo a {
+    font-style: italic;
+    text-shadow: 1px 1px rgba(0,0,0,0.2);
+}
+
+.login-box-body, .register-box-body {
+    border-radius: 15px;
+    box-shadow: 0 0 0 2px rgba(0,0,0,0.04);
+    border: 1px solid rgba(0,0,0,0.3);
+}
+
+.login-logo .titulo-texto div, .register-logo .titulo-texto div {
+    display: inline;
+}
